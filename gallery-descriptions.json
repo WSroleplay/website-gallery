@@ -4,13 +4,64 @@
             "url": "https://raw.githubusercontent.com/WSroleplay/website-gallery/main/images/1_MayorsMansion.png",
             "title": "Mayor's Mansion",
             "description": "The grand mansion where the town mayor resides, overlooking the bustling streets of Saint Denis.",
-            "date": "Spring 1899"
+            "date": "Spring 1899",
+            "photographer": "Dutch van der Linde"
         },
         {
             "url": "https://raw.githubusercontent.com/WSroleplay/website-gallery/main/images/2_BraithwaiteManor.png",
             "title": "Braithwaite Manor",
             "description": "The elegant estate of the Braithwaite family, surrounded by rolling hills and ancient oak trees.",
-            "date": "Summer 1899"
+            "date": "Summer 1899",
+            "photographer": "Arthur Morgan"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/WSroleplay/website-gallery/main/images/3_BrontesMansion.png",
+            "title": "Bronte's Mansion",
+            "description": "Angelo Bronte's luxurious residence in the heart of Saint Denis, filled with wealth and secrets.",
+            "date": "Fall 1899",
+            "photographer": "John Marston"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/WSroleplay/website-gallery/main/images/4_BeechersHope.png",
+            "title": "Beecher's Hope",
+            "description": "A peaceful ranch where dreams of a simple life away from the outlaw world take shape.",
+            "date": "Winter 1899",
+            "photographer": "Abigail Roberts"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/WSroleplay/website-gallery/main/images/5_ShadyBelle.png",
+            "title": "Shady Belle",
+            "description": "The gang's hideout in the swamplands, providing shelter among the cypress trees and gators.",
+            "date": "Spring 1899",
+            "photographer": "Hosea Matthews"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/WSroleplay/website-gallery/main/images/6_CarmodyDell.png",
+            "title": "Carmody Dell",
+            "description": "A quiet homestead nestled in the valley, where honest folk try to make an honest living.",
+            "date": "Summer 1899",
+            "photographer": "Charles Smith"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/WSroleplay/website-gallery/main/images/7_GuthreeFarm.png",
+            "title": "Guthrie Farm",
+            "description": "Rolling pastures and fertile fields where cattle graze under the endless western sky.",
+            "date": "Fall 1899",
+            "photographer": "Sadie Adler"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/WSroleplay/website-gallery/main/images/8_TheLoft.png",
+            "title": "The Loft",
+            "description": "An urban dwelling high above the city streets, offering views of the changing times.",
+            "date": "Winter 1899",
+            "photographer": "Lenny Summers"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/WSroleplay/website-gallery/main/images/9_RobardFarm.png",
+            "title": "Robard Farm",
+            "description": "A working farm where the Robard family tends to their crops and livestock with dedication.",
+            "date": "Spring 1899",
+            "photographer": "Sean MacGuire"
         }
     ]
 }
