@@ -1,0 +1,22 @@
+{
+    "photos": [
+        {
+            "url": "https://raw.githubusercontent.com/YOUR_USERNAME/ndrp-gallery/main/images/screenshot1.jpg",
+            "title": "Camp Meetup",
+            "description": "A gathering of our gang members around the campfire, sharing stories and planning the next adventure.",
+            "date": "Spring 1899"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/YOUR_USERNAME/ndrp-gallery/main/images/screenshot2.jpg",
+            "title": "Saint Denis Heist",
+            "description": "The aftermath of our daring bank robbery in the heart of the big city.",
+            "date": "Summer 1899"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/YOUR_USERNAME/ndrp-gallery/main/images/screenshot3.jpg",
+            "title": "Horseback Chase",
+            "description": "Racing through the countryside with lawmen hot on our trail.",
+            "date": "Fall 1899"
+        }
+    ]
+}
