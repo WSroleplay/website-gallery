@@ -1,22 +1,16 @@
 {
     "photos": [
         {
-            "url": "https://raw.githubusercontent.com/YOUR_USERNAME/ndrp-gallery/main/images/screenshot1.jpg",
-            "title": "Camp Meetup",
-            "description": "A gathering of our gang members around the campfire, sharing stories and planning the next adventure.",
+            "url": "https://raw.githubusercontent.com/WSroleplay/website-gallery/main/images/1_MayorsMansion.png",
+            "title": "Mayor's Mansion",
+            "description": "The grand mansion where the town mayor resides, overlooking the bustling streets of Saint Denis.",
             "date": "Spring 1899"
         },
         {
-            "url": "https://raw.githubusercontent.com/YOUR_USERNAME/ndrp-gallery/main/images/screenshot2.jpg",
-            "title": "Saint Denis Heist",
-            "description": "The aftermath of our daring bank robbery in the heart of the big city.",
+            "url": "https://raw.githubusercontent.com/WSroleplay/website-gallery/main/images/2_BraithwaiteManor.png",
+            "title": "Braithwaite Manor",
+            "description": "The elegant estate of the Braithwaite family, surrounded by rolling hills and ancient oak trees.",
             "date": "Summer 1899"
-        },
-        {
-            "url": "https://raw.githubusercontent.com/YOUR_USERNAME/ndrp-gallery/main/images/screenshot3.jpg",
-            "title": "Horseback Chase",
-            "description": "Racing through the countryside with lawmen hot on our trail.",
-            "date": "Fall 1899"
         }
     ]
 }
